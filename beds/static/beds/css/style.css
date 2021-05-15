@@ -1,0 +1,23 @@
+.bg-navy {
+  background-color: #003366;
+  color: white;
+}
+
+.error ul {
+  font-size: 12px;
+  color: tomato;
+  border: 1px solid tomato;
+}
+
+.error ul>li {
+  text-align: left;
+}
+
+.site-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
